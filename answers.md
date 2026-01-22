@@ -14,4 +14,7 @@ Date:   Wed Jan 21 19:32:22 2026 -0500
 
     Initial commit <br> <br> 
 > Answer 9: Your branch is up to date with 'origin/main'
-> Answer 10: 
+> Answer 10: yes
+>Answer 11: An error occurs because there were changes online
+>Answer 12: yes
+>Answer 13: .  ..  .git  .gitignore  README.md
